@@ -1,5 +1,5 @@
 {
-  "name": "sql-formatter",
+  "name": "@yasha/sql-formatter-bun",
   "version": "13.0.0",
   "description": "Format whitespace in a SQL query to make it more readable",
   "license": "MIT",
